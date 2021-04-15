@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=septs&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zer0fire&show_icons=true)
 
 ## Skill
 
