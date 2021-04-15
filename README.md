@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **zer0fire/zer0fire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Zer0fire
+
+> 「To be, or not to be, that is the question」
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=septs&show_icons=true)
+
+## Skill
+
+- Frontend Developer
+
+## Links
+
+- Email: [hai@zer0fire.me](mailto:hai@zer0fire.me)
+- QQ: **(never)**
+- WeChat: **(never)**
+
