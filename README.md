@@ -36,4 +36,29 @@ Here are some ideas to get you started:
 
 > 「To be, or not to be, that is the question」
 
+A Software Engineer dedicated to perfecting user experience through continuous innovation. Major focus on Front-End and CG, full stack capable.
 
+## Links
+
+- Email: [hai@zer0fire.me](mailto:hai@zer0fire.me)
+
+## Language
+
+-   JavaScript
+-   TypeScript
+-   HTML
+-   CSS
+-   GLSL
+
+## Framework/Others
+
+-   React
+-   Vue
+-   **WebGL**
+-   **Cocos**
+
+# Projects
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=swpuhu&show_icons=true&theme=light&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swpuhu&theme=light&layout=compact)
