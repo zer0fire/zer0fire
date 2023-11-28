@@ -38,10 +38,6 @@ Here are some ideas to get you started:
 
 A Software Engineer dedicated to perfecting user experience through continuous innovation. Major focus on Front-End and CG, full stack capable.
 
-## Links
-
-- Email: [hai@zer0fire.me](mailto:hai@zer0fire.me)
-
 ## Language
 
 -   JavaScript
