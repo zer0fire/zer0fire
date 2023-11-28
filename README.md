@@ -59,6 +59,6 @@ A Software Engineer dedicated to perfecting user experience through continuous i
 
 # Projects
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=swpuhu&show_icons=true&theme=light&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zer0fire&show_icons=true&theme=light&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swpuhu&theme=light&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0fire&theme=light&layout=compact)
