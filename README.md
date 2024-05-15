@@ -38,20 +38,17 @@ Here are some ideas to get you started:
 
 A Software Engineer dedicated to perfecting user experience through continuous innovation. Major focus on Front-End and CG, full stack capable.
 
-## Language
+# Skills
 
--   JavaScript
--   TypeScript
--   HTML
--   CSS
--   GLSL
+| Language   | Framework / Others |
+| ---------- | ------------------ |
+| JavaScript |        React       |
+| TypeScript |         Vue        |
+|    HTML    |      **WebGL**     |
+|    CSS     |      **Cocos**     |
 
-## Framework/Others
 
--   React
--   Vue
--   **WebGL**
--   **Cocos**
+
 
 # Projects
 
