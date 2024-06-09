@@ -34,11 +34,19 @@ Here are some ideas to get you started:
 -->
 # Zer0fire
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0fire&theme=light&layout=compact" />
+
 > 「To be, or not to be, that is the question」
 
 A Software Engineer dedicated to perfecting user experience through continuous innovation. Major focus on Front-End and CG, full stack capable.
 
+<br>
+<br>
+
 # Skills
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zer0fire&show_icons=true&theme=light&count_private=true" />
+
 
 | Language   | Framework / Others |
 | ---------- | ------------------ |
@@ -49,9 +57,3 @@ A Software Engineer dedicated to perfecting user experience through continuous i
 |    GLSL    |                    |
 
 
-
-# Projects
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zer0fire&show_icons=true&theme=light&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0fire&theme=light&layout=compact)
