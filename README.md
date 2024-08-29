@@ -52,8 +52,8 @@ A Software Engineer dedicated to perfecting user experience through continuous i
 | ---------- | ------------------ |
 | JavaScript |        React       |
 | TypeScript |         Vue        |
-|    HTML    |      **WebGL**     |
-|    CSS     |      **Cocos**     |
+|    HTML    |        WebGL       |
+|    CSS     |        Cocos       |
 |    GLSL    |                    |
 
 
