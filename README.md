@@ -58,6 +58,6 @@ I'm a software engineer dedicated to perfecting user experience through continuo
 |    CSS     |        Cocos       |
 |    GLSL    |                    |
 
-[![My Skills frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,cocos,bun,nodejs)](https://skillicons.dev)
-[![My Skills AI](https://skillicons.dev/icons?i=mcp,prisma)](https://skillicons.dev)
+[![My Skills frontend](https://skillicons.dev/icons?i=ts,html,css,react,vue,bun,nodejs,prisma)](https://skillicons.dev)
+[![My Skills AI](https://skillicons.dev/icons?i=mcp,cocos)](https://skillicons.dev)
 
