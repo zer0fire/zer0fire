@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zer0fire&show_icons=true&theme=light&count_private=true" />
 
 -->
-### Hi there 👋 I'm Zer0fire （A number zero replaced "o"）
+### Hi there 👋 I'm Zer0fire，with a numerical zero at the end.
 
 I'm a software engineer dedicated to perfecting user experience through continuous innovation. I started out in frontend architecture; these days, most of my time goes into AI Agent, RAG, MCP, and figuring out how to make AI systems more useful and dependable.
 
