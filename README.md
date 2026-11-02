@@ -2,7 +2,7 @@
 
 <!--
 **zer0fire/zer0fire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+### Hi there 👋 I'm Zer0fire
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -30,23 +30,25 @@ Here are some ideas to get you started:
 - QQ: **(never)**
 - WeChat: **(never)**
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0fire&theme=light&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zer0fire&show_icons=true&theme=light&count_private=true" />
 
 -->
-# Zer0fire
+### Hi there 👋 I'm Zer0fire
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0fire&theme=light&layout=compact" />
+I'm a software engineer dedicated to perfecting user experience through continuous innovation. I started out in frontend architecture; these days, most of my time goes into AI Agent, RAG, MCP, and figuring out how to make AI systems more useful and dependable.
+
+- 🔭 I’m currently seeking a Agent developer position
+- 🌱 I’m currently learning Agent Framework
+- 💬 My Blog: [zer0fire.me](https://blog.zer0fire.me/)
+- 📫 My Resume: [Here](https://blog.zer0fire.me/resume/en)
+
+<br>
+<br>
 
 > 「To be, or not to be, that is the question」
 
-A Software Engineer dedicated to perfecting user experience through continuous innovation. Major focus on Front-End and CG, full stack capable.
-
-<br>
-<br>
-
-# Skills
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zer0fire&show_icons=true&theme=light&count_private=true" />
-
+# 🧰 Skills
 
 | Language   | Framework / Others |
 | ---------- | ------------------ |
@@ -56,4 +58,6 @@ A Software Engineer dedicated to perfecting user experience through continuous i
 |    CSS     |        Cocos       |
 |    GLSL    |                    |
 
+[![My Skills frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,cocos,bun,nodejs)](https://skillicons.dev)
+[![My Skills AI](https://skillicons.dev/icons?i=mcp,prisma)](https://skillicons.dev)
 
