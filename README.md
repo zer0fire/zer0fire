@@ -38,15 +38,10 @@ Here are some ideas to get you started:
 
 I'm a software engineer dedicated to perfecting user experience through continuous innovation. I started out in frontend architecture; these days, most of my time goes into AI Agent, RAG, MCP, and figuring out how to make AI systems more useful and dependable.
 
-- 🔭 I’m currently seeking a Agent developer position
-- 🌱 I’m currently learning Agent Framework
-- 💬 My Blog: [zer0fire.me](https://blog.zer0fire.me/)
-- 📫 My Resume: [Here](https://blog.zer0fire.me/resume/en)
-
-<br>
-<br>
-
-> 「To be, or not to be, that is the question」
+- 🔭 I’m currently seeking an Agent developer position.
+- 🌱 I’m currently learning LangGraph.
+- 💬 My Blog: [zer0fire.me](https://blog.zer0fire.me/).
+- 📫 My Resume: [Here](https://blog.zer0fire.me/resume/en).
 
 # 🧰 Skills
 
