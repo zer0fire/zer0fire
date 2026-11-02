@@ -51,7 +51,7 @@ I'm a software engineer dedicated to perfecting user experience through continuo
 | TypeScript |         Vue        |
 |    HTML    |        WebGL       |
 |    CSS     |        Cocos       |
-|    GLSL    |                    |
+|    GLSL    |       LangGraph    |
 
 [![My Skills frontend](https://skillicons.dev/icons?i=ts,html,css,react,vue,bun,nodejs,prisma)](https://skillicons.dev)
 [![My Skills AI](https://skillicons.dev/icons?i=mcp,cocos)](https://skillicons.dev)
