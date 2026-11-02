@@ -41,7 +41,7 @@ I'm a software engineer dedicated to perfecting user experience through continuo
 - 🔭 I’m currently seeking an Agent developer position.
 - 🌱 I’m currently learning LangGraph.
 - 💬 My Blog: [zer0fire.me](https://blog.zer0fire.me/).
-- 📫 My Resume: [Here](https://blog.zer0fire.me/resume/en).
+- 📫 My Resume: [Here](https://blog.zer0fire.me/resume/en) | Reach me by [Email](mailto:hai@zer0fire.me)
 
 # 🧰 Skills
 
